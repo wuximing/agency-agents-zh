@@ -11,6 +11,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/agency-agents-zh?style=social)](https://github.com/jnMetaCode/agency-agents-zh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+[![桌面客戶端](https://img.shields.io/badge/桌面客戶端-macOS%20%7C%20Windows%20%7C%20Linux-2563eb?logo=github)](https://github.com/jnMetaCode/agency-orchestrator/releases/latest)
+[![線上體驗](https://img.shields.io/badge/線上體驗-ao.aiolaola.com-8b5cf6)](https://ao.aiolaola.com/experts)
 
 
 ### 📊 專案規模
